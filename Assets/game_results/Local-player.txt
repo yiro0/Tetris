@@ -1,0 +1,27 @@
+Score: 1670
+Level: 2
+Duration: 159 seconds
+-------------------------
+Score: 269
+Level: 1
+Duration: 26 seconds
+-------------------------
+Score: 140
+Level: 1
+Duration: 10 seconds
+-------------------------Score: 63
+Level: 1
+Duration: 14 seconds
+-------------------------
+Score: 703
+Level: 1
+Duration: 85 seconds
+-------------------------
+Score: 44
+Level: 1
+Duration: 10 seconds
+-------------------------
+Score: 401
+Level: 1
+Duration: 46 seconds
+-------------------------

@@ -1,0 +1,68 @@
+# Doxyfile 1.8.20
+
+# Project settings
+PROJECT_NAME           = "Tetris Game"
+PROJECT_NUMBER         = "1.0"
+OUTPUT_DIRECTORY       = "C:/Users/Bartek/studia_informatics/Informatics-s4/CP/project/DOXYGEN-OUTPUT"
+INPUT                  = .
+FILE_PATTERNS          = *.cpp *.h
+RECURSIVE              = YES
+
+# Documentation extraction
+EXTRACT_ALL            = YES
+EXTRACT_PRIVATE        = YES
+EXTRACT_STATIC         = YES
+EXTRACT_LOCAL_CLASSES  = YES
+EXTRACT_LOCAL_METHODS  = YES
+
+# Graphical settings
+HAVE_DOT               = YES
+DOT_PATH               = "C:/Program Files/Graphviz/bin"
+# CLASS_DIAGRAMS         = YES COMMENTED!!!!!!!!!!!!!!!!!
+CALL_GRAPH             = YES
+CALLER_GRAPH           = YES
+COLLABORATION_GRAPH    = YES
+GROUP_GRAPHS           = YES
+UML_LOOK               = YES
+UML_LIMIT_NUM_FIELDS   = 10
+TEMPLATE_RELATIONS     = YES
+INCLUDE_GRAPH          = YES
+INCLUDED_BY_GRAPH      = YES
+GRAPHICAL_HIERARCHY    = YES
+DIRECTORY_GRAPH        = YES
+# DOT_TRANSPARENT        = YES COMMENTED!!!!!!!!!!!!!!!!!
+DOT_MULTI_TARGETS      = YES
+
+# Output formats
+GENERATE_HTML          = YES
+GENERATE_LATEX         = YES
+GENERATE_XML           = YES
+
+# LaTeX settings
+LATEX_OUTPUT           = latex
+GENERATE_PDF           = NO
+LATEX_CMD_NAME         = pdflatex
+MAKEINDEX_CMD_NAME     = makeindex
+PDF_HYPERLINKS         = YES
+USE_PDFLATEX           = YES
+
+# General settings
+QUIET                  = NO
+WARNINGS               = YES
+WARN_IF_UNDOCUMENTED   = YES
+WARN_IF_DOC_ERROR      = YES
+
+# Optimization settings
+OPTIMIZE_OUTPUT_FOR_C  = NO
+OPTIMIZE_OUTPUT_JAVA   = NO
+OPTIMIZE_FOR_FORTRAN   = NO
+OPTIMIZE_OUTPUT_VHDL   = NO
+
+# Input filtering
+INPUT_FILTER           = ""
+FILTER_PATTERNS        = ""
+FILTER_SOURCE_FILES    = NO
+
+# Preprocessor settings
+ENABLE_PREPROCESSING   = YES
+MACRO_EXPANSION       

@@ -1,0 +1,12 @@
+Score: 171
+Level: 1
+Duration: 27 seconds
+-------------------------
+Score: 21
+Level: 1
+Duration: 8 seconds
+-------------------------
+Score: 512
+Level: 1
+Duration: 67 seconds
+-------------------------
