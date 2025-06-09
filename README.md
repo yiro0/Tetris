@@ -1,7 +1,7 @@
 # Tetris Game
 
 This is microproject of Tetris game built using C++ and the raylib library.
-<br> It was realized as a microproject during semester 4 of the *Computer Programming 4* course.
+<br> It was realized as a project during semester 4 of the *Computer Programming 4* course.
 <br>[Official raylib site](https://www.raylib.com/)
 <br>[raylib github](https://github.com/raysan5/raylib)
 
